@@ -1,0 +1,10 @@
+{
+  "name": "react-recap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alex <fancn21th@aliyun.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./start"
+  }
+}
